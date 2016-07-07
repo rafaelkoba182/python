@@ -1,1 +1,3 @@
 # python
+
+Exercícios de Python.
